@@ -1,0 +1,1 @@
+This pipeline checks if the docker plugin is installed 
